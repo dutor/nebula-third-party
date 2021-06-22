@@ -93,6 +93,7 @@ set(common_configure_envs
 )
 
 set(ALL_TARGETS
+    librdkafka
     libunwind
     openssl
     libevent
