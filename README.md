@@ -29,6 +29,7 @@
  * capstone
  * flex
  * bison
+ * kafka
 
 # How to Build
 
